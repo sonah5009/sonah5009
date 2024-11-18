@@ -42,8 +42,8 @@
 
 ## 🌍 Let's Connect
 - GitHub: [sonah5009](https://github.com/sonah5009)
-- Email: sonah5009@gmail.com (이메일 입력)
-- LinkedIn: [https://www.linkedin.com/in/suna-choe-6a567826b/](#) (링크가 있다면 추가)
+- Email: sonah5009@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/suna-choe-6a567826b/](#)
 
 ---
 
