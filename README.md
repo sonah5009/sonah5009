@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sun-a!
 
-### 💻 Full-Stack Developer | Problem Solver | Clean Code Enthusiast
+### 💻 Problem Solver
 
 "문제를 해결하는 데 집중하는 개발자"라는 마음가짐으로 매일 성장하고 있습니다.
 
 ---
 
 ## 🌟 About Me
-- 🌱 현재 **React Native**와 **Expo Framework**를 활용한 프로젝트를 진행 중입니다.
+- 🌱 최근 **React Native**와 **Expo Framework**를 활용한 프로젝트를 진행 했습니다.
 - 🔎 관심 분야: **UI/UX 개발**, **반응형 웹 디자인**, **인공지능**, **임베디드**, **시스템 프로그램**.
 - 🚀 목표: 지속 가능한 개발 환경과 **사용자 중심 서비스**를 만드는 데 기여.
 
