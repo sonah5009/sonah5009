@@ -43,7 +43,7 @@
 ## 🌍 Let's Connect
 - GitHub: [sonah5009](https://github.com/sonah5009)
 - Email: sonah5009@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/suna-choe-6a567826b/](#)
+- LinkedIn: [https://www.linkedin.com/in/suna-choe-6a567826b/](https://www.linkedin.com/in/suna-choe-6a567826b/)
 
 ---
 
