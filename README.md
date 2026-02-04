@@ -1,50 +1,39 @@
-# 👋 Hi, I'm Sun-a!
+## About Me 🍰
+> [한국어 CV]() &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/sunachoe/) &nbsp; · &nbsp; [Email](mailto:sonah4256@gmail.com)
 
-### 💻 Problem Solver
+### 🎓 Education
+- [**Sungkyunkwan University**](https://cse.skku.edu/cse/index.do), Korea (Class of 2026 Expected)
+  - Bachelor of Computer Science & Engineering
+- [**Zurich University of Applied Sciences**](https://www.zhaw.ch/en/university), Switzerland (Exchange Program, 2024)
 
-"문제를 해결하는 데 집중하는 개발자"라는 마음가짐으로 매일 성장하고 있습니다.
 
----
+### 🛠️ Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,ros,linux,docker,git,mysql,ts,js,react,nextjs,tailwind,figma" />
+  </a>
+</p>
 
-## 🌟 About Me
-- 🌱 최근 **React Native**와 **Expo Framework**를 활용한 프로젝트를 진행 했습니다.
-- 🔎 관심 분야: **UI/UX 개발**, **반응형 웹 디자인**, **인공지능**, **임베디드**, **시스템 프로그램**.
-- 🚀 목표: 지속 가능한 개발 환경과 **사용자 중심 서비스**를 만드는 데 기여.
+### 🚀 Experiences
+- **Research Intern** @ [Automation Lab, SKKU](https://skku.ac.kr/) (2025.12 - 2026.01) 
+- **Software Engineer Intern** @ [Sehwa](https://sehwa.com/) (2025.04 - 2025.12) 
+- **Fronted Developer Intern** @ [SSA, SKKU](https://github.com/SKKU-Online-Learning-System/mvp-frontend.git) (2023.4 - 2024.1)
 
----
+### ⚡ Projects
+- **xv6-riscv OS** (2025.03 - 2025.06)
+  - Implemented EEVDF scheduler and virtual memory management (mmap/munmap).
+- **[SoleMatch](https://github.com/sonah5009/SoleMatch): Plantar Analysis App** (2024.09 - 2024.11)
+  - Developed end-to-end solution using Arduino sensors and OpenCV-based foot measurement.
+- **[CodEco](https://github.com/skkuse/2023fall_41class_team3): Code Optimization Platform** (2023.03 - 2023.06)
+  - Formalized SRS/SDS based on IEEE standards and engineered modular frontend architecture.
 
-## 🔧 Skills
-### **Frontend**
-- Languages: `JavaScript (ES6+)`, `HTML`, `CSS`, `TypeScript`
-- Library/Frameworks: `React.js`, `React Native`, `Expo`, `Next.js`
-- Styling: `TailwindCSS`, `Styled-components`
+### 🏆 Awards
+- [_SKKU Autonomous Driving AI Chip Design Competition_](https://swb.skku.edu/futurecar/inform.do?mode=view&articleNo=59227&article.offset=0&articleLimit=10&srSearchVal=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89), Sungkyunkwan University (2025.07)
+  
+### 🎖️ Certifications
+- Languages: OPIc(Oral Proficiency Interview, ENG) - Intermediate High
 
-### **Backend**
-- `Node.js`, `Express`, `Flask`
-- API 설계 및 통신 (REST API)
+### 📚 Scholarships
+- Academic Excellence Scholarship (2022 Spring)
 
-### **Tools**
-- Version Control: `Git`, `GitHub`
-- Design: `Figma`
-- Debugging: `Chrome DevTools`, `Postman`
 
----
-
-## 💡 Projects
-### **[SoleMatch]**
-- 🛠 **Description:** 사용자 발분석 및 신발 추천
-- 🔧 **Tech Stack:** React Native, Expo
-- 📱 주요 기능: 발 측정 및 맞춤 신발 추천
-
-더 많은 프로젝트는 [여기에서 확인하세요!](https://github.com/sonah5009?tab=repositories)
-
----
-
-## 🌍 Let's Connect
-- GitHub: [sonah5009](https://github.com/sonah5009)
-- Email: sonah5009@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/suna-choe-6a567826b/](https://www.linkedin.com/in/suna-choe-6a567826b/)
-
----
-
-_Keep learning, keep growing!_
