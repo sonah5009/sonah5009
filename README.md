@@ -1,5 +1,5 @@
 ## About Me 🍰
-> [한국어 CV]() &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/sunachoe/) &nbsp; · &nbsp; [Email](mailto:sonah4256@gmail.com)
+> [한국어](README_kr.md) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/sunachoe/) &nbsp; · &nbsp; [Email](mailto:sonah4256@gmail.com)
 
 ### 🎓 Education
 - [**Sungkyunkwan University**](https://cse.skku.edu/cse/index.do), Korea (Class of 2026 Expected)
