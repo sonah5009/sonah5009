@@ -15,9 +15,9 @@
 </p>
 
 ### 🚀 Experiences
-- **Research Intern** @ [Automation Lab, SKKU](https://skku.ac.kr/) (2025.12 - 2026.01) 
+- **Research Intern** @ [Automation Lab, SKKU](https://www.skku.edu/skku/index.do) (2025.12 - 2026.01) 
 - **Software Engineer Intern** @ [Sehwa](https://www.sehwa.biz/) (2025.04 - 2025.12) 
-- **Fronted Developer Intern** @ [SSA, SKKU](https://github.com/SKKU-Online-Learning-System/mvp-frontend.git) (2023.4 - 2024.1)
+- **Fronted Developer Intern** @ [SSA, SKKU](https://mrdang.cs.skku.edu/) (2023.4 - 2024.1)
 
 ### ⚡ Projects
 - **xv6-riscv OS** (2025.03 - 2025.06)
