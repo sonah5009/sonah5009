@@ -2,7 +2,7 @@
 > [한국어](README_kr.md) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/sunachoe/) &nbsp; · &nbsp; [Email](mailto:sonah4256@gmail.com)
 
 ### 🎓 Education
-- [**Sungkyunkwan University**](https://cse.skku.edu/cse/index.do), Korea (Class of 2026 Expected)
+- [**Sungkyunkwan University**](https://cse.skku.edu/cse/index.do), Korea (Expected graduation: Feb 2027)
   - Bachelor of Computer Science & Engineering
 - [**Zurich University of Applied Sciences**](https://www.zhaw.ch/en/university), Switzerland (Exchange Program, 2024)
 
@@ -16,7 +16,7 @@
 
 ### 🚀 Experiences
 - **Research Intern** @ [Automation Lab, SKKU](https://skku.ac.kr/) (2025.12 - 2026.01) 
-- **Software Engineer Intern** @ [Sehwa](https://www.sehwa.biz/) (2025.04 - 2025.12) 
+- **Software Engineer Intern** @ [Sehwa](https://sehwa.com/) (2025.04 - 2025.12) 
 - **Fronted Developer Intern** @ [SSA, SKKU](https://github.com/SKKU-Online-Learning-System/mvp-frontend.git) (2023.4 - 2024.1)
 
 ### ⚡ Projects

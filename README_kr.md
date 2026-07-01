@@ -2,7 +2,7 @@
 > [English CV](./README.md) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/sunachoe/) &nbsp; · &nbsp; [Email](mailto:sonah4256@gmail.com)
 
 ### 🎓 학력
-- [**성균관대학교**](https://cse.skku.edu/cse/index.do) 컴퓨터공학 전공 (2026년 8월 졸업 예정)
+- [**성균관대학교**](https://cse.skku.edu/cse/index.do) 컴퓨터공학 전공 (2027년 2월 졸업 예정)
 - [**취리히 응용과학대학교 (ZHAW)**](https://www.zhaw.ch/en/university), 스위스 (교환학생, 2024.02 - 2024.07)
 
 ### 👾 관심 분야
